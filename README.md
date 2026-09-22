@@ -149,3 +149,29 @@ git push origin main
 We acknowledge the transformative potential of LLMs in generating code; however, we are still in the nascent stages of understanding how to embed LLMs in developer workflows to write code more efficiently while maintaining quality. Therefore, we will not be teaching students directly how to use LLMs to develop web applications.
 
 As part of this class, we do encourage students to experiment with LLM services such as OpenAI's ChatGPT to generate source code for MPs. If LLMs are used to generate code for an MP, students must (1) submit their chatlogs along with their source code, and (2) answer survey questions related to their experience using LLMs in the grading form. Failure to do this will be a violation of the academic integrity policy of this course.
+
+## References and Acknowledgments
+
+- PokéAPI documentation: https://pokeapi.co/docs/v2/
+  Used to understand the Pokémon API endpoints and response structure.
+
+- PokéAPI sprites: https://github.com/PokeAPI/sprites
+  Source of the Pokémon artwork displayed in the application.
+
+- React Router documentation:
+  https://reactrouter.com/start/declarative/routing
+  https://reactrouter.com/api/declarative-routers/BrowserRouter
+  Referenced for page routing and BrowserRouter basename configuration.
+
+- Vite deployment documentation: https://vite.dev/guide/static-deploy
+  Referenced for production builds and GitHub Pages deployment.
+
+- Google Fonts: https://fonts.google.com/
+  Used the DM Sans and Playfair Display fonts.
+
+- OpenAI Codex: https://openai.com/codex/
+  Used to generate and revise application code, styling, tests, and
+  deployment configuration, and to assist with debugging and verification.
+
+Pokémon names and artwork belong to their respective rights holders.
+This application is an educational fan project.
